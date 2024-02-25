@@ -1,4 +1,7 @@
 <?php
+
+namespace Database\Seeders;
+
 use App\Models\Stock;
 use Illuminate\Database\Seeder;
 

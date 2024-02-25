@@ -1,4 +1,4 @@
-# Laravel 7 EOD 歷史資料具象狀態傳輸應用程式介面用戶端
+# Laravel 10 EOD 歷史資料具象狀態傳輸應用程式介面用戶端
 
 引入 radicalloop 的 eodhistoricaldata 套件來擴增 EOD 歷史資料具象狀態傳輸應用程式介面用戶端，評估股票的價值除了用股價，更重要的其實是市值，是透過公開販售由市場交易機制來決定的，也就是流通在外股數乘以市價。
 
@@ -26,5 +26,5 @@ $ php artisan migrate --seed
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Tv4XeFh.png)
+![](https://i.imgur.com/t8ZTCHk.png)
 > 隨著新訊息的揭露、曝光而更新成交價格，可能上修，也可能下修
