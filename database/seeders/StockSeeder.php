@@ -8,11 +8,9 @@ use Illuminate\Database\Seeder;
 class StockSeeder extends Seeder
 {
     /**
-     * Run the database seeds.
-     *
-     * @return void
+     * Run the database seeders.
      */
-    public function run()
+    public function run(): void
     {
         $stocks = [
 			[
